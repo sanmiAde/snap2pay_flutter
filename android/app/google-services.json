@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "251057087798",
+    "firebase_url": "https://snap2pay-8c58b.firebaseio.com",
+    "project_id": "snap2pay-8c58b",
+    "storage_bucket": "snap2pay-8c58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251057087798:android:4d832662d45f1c34de7f97",
+        "android_client_info": {
+          "package_name": "com.example.snap2pay_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251057087798-245sm20ulhac92f47ro5dmecb596boij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby8oGROe2O685COfc-tRJLjd9xjeqB9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251057087798-245sm20ulhac92f47ro5dmecb596boij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251057087798:android:41354daa752abf7a",
+        "android_client_info": {
+          "package_name": "com.sanmiaderibigbe.snap2pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251057087798-6vphd7pi8ahf39nir42f0c70pkusv8ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanmiaderibigbe.snap2pay",
+            "certificate_hash": "97fbc952c7a328059a3865e11364fc3c2463b095"
+          }
+        },
+        {
+          "client_id": "251057087798-b3f1o7u3cg4hvq8ropvug73an9bve9b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanmiaderibigbe.snap2pay",
+            "certificate_hash": "ad7553bdfa5e80ad5b6bf00df241857e2833b4cd"
+          }
+        },
+        {
+          "client_id": "251057087798-245sm20ulhac92f47ro5dmecb596boij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby8oGROe2O685COfc-tRJLjd9xjeqB9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251057087798-245sm20ulhac92f47ro5dmecb596boij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
